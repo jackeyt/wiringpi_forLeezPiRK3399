@@ -4,6 +4,7 @@ This is wiringpi for LeezPi RK3399 Borad!
 
 
 ## 针脚定义
+![](./LeezPi_40pin.png)
 
 ```
 
@@ -33,7 +34,11 @@ This is wiringpi for LeezPi RK3399 Borad!
  +------+-----+----------+------+---+----++----+---+------+----------+-----+------+
  
  ```
- ## wiringPi示例
+ 
+## wiringPi安装
+ 
+  
+## wiringPi示例
  
 * C语言示例
 创建一个C源文件：
