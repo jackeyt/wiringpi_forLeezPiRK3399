@@ -1,9 +1,9 @@
 # wiringpi_forLeezPiRK3399
-This is wiringpi for LeezPi RK3399 Borad!
-## LeeZPi硬件原理图
+This is wiringpi for LeezPi RK3399 Board!
 
 
-## 针脚定义
+## LeeZPi硬件针脚定义
+
 ![](./LeezPi_40pin.png)
 
 ```
