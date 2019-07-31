@@ -36,7 +36,12 @@ This is wiringpi for LeezPi RK3399 Borad!
  ```
  
 ## wiringPi安装
- 
+
+```
+wget https://raw.githubusercontent.com/jackeyt/wiringpi_forLeezPiRK3399/master/wiringpi_forLeezPiRK3399.deb 
+sudo dpkg -i  wiringpi_forLeezPiRK3399.deb
+```
+
   
 ## wiringPi示例
  
