@@ -6,6 +6,17 @@ This is wiringpi for LeezPi RK3399 Board!
 
 ![](./LeezPi_40pin.png)
 
+
+## wiringPi安装
+
+```
+wget https://raw.githubusercontent.com/jackeyt/wiringpi_forLeezPiRK3399/master/wiringpi_forLeezPiRK3399.deb
+sudo dpkg -i  wiringpi_forLeezPiRK3399.deb
+```
+
+## 运行gpio readall
+
+
 ```
 
  +------+-----+----------+------+   LeezPi-RK3399  +------+----------+-----+------+
@@ -35,13 +46,6 @@ This is wiringpi for LeezPi RK3399 Board!
  
  ```
  
-## wiringPi安装
-
-```
-wget https://raw.githubusercontent.com/jackeyt/wiringpi_forLeezPiRK3399/master/wiringpi_forLeezPiRK3399.deb 
-sudo dpkg -i  wiringpi_forLeezPiRK3399.deb
-```
-
   
 ## wiringPi示例
  
